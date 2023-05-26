@@ -14,5 +14,6 @@ public class CharExam {
             System.out.println(c3);
             c3++;
         }
+
     }
 }
