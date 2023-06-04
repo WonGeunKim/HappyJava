@@ -16,6 +16,7 @@ public class LabelExam {
         }
         // i == 0 이고 k == 2 일때 break outter를 실행하게 되고 이중 반복문을 종료하고 프로그램을 종료
         // i == 0 이고 k == 2 일때 continue outter를 실행하게 되면 그 아래 줄은 실행하지 않고 바깥쪽 for문을 반복
+
     }
 
 }
