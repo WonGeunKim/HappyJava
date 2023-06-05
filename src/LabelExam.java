@@ -18,5 +18,4 @@ public class LabelExam {
         // i == 0 이고 k == 2 일때 continue outter를 실행하게 되면 그 아래 줄은 실행하지 않고 바깥쪽 for문을 반복
 
     }
-
 }
