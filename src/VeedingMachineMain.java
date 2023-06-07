@@ -9,6 +9,9 @@ public class VeedingMachineMain {
         VendingMachine vm2 = new VendingMachine();
         // 메모리 상에 인스턴스가 2개 생성된 것
 
+        String product = vm1.pushProductButton(100);
+        System.out.println(product);
+
     }
 
 }
