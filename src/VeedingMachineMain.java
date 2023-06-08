@@ -13,5 +13,4 @@ public class VeedingMachineMain {
         System.out.println(product);
 
     }
-
 }
