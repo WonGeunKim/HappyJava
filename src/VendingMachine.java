@@ -9,5 +9,9 @@ public class VendingMachine {
         return "콜라";
     }
 
+    // 이렇게 작성된 메소드는 인스턴스를 생성하지 않아도 사용할 수 있다
+    public static void printVersion() {
+        System.out.println("v1.0");
+    }
 
 }
