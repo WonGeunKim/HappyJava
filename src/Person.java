@@ -6,6 +6,7 @@ public class Person {
 
     boolean isVip;
 
+    static int count = 0;
 
 
 }
