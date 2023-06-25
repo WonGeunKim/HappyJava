@@ -8,5 +8,4 @@ public class MathTest {
 //        Math m = new Math(); // 에러
 
     }
-
 }
